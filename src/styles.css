@@ -102,26 +102,20 @@ p {
     margin: 0 20px;
   }
 }
-
 @media (max-width: 576px) {
   h1 {
-    display: block;
-    text-align: center;
-    font-size: 50px;
-    margin-bottom: 15px;
+    font-size: 48px;
+    line-height: 1.5;
   }
-}
 
-@media (max-width: 576px) {
   h2 {
-    display: block;
+    font-size: 32px;
     text-align: center;
-    font-size: 30px;
-    margin-bottom: 15px;
   }
-}
 
-@media (max-width: 576px) {
+  p {
+    text-align: center;
+  }
   .email-link {
     display: block;
     text-align: center;
