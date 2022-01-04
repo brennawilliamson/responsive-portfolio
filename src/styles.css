@@ -31,7 +31,6 @@ p {
   line-height: 1.5;
 }
 
-
 .navigation-links {
   display: flex;
   margin-top: 40px;
@@ -90,9 +89,8 @@ p {
 
 @media (max-width: 576px) {
   .project-link {
-   display: block;
-  text-align: center;
-  margin: 0 20px;
+    display: block;
+    text-align: center;
+    margin: 0 20px;
   }
-
-  
+}
