@@ -104,7 +104,8 @@ p {
 }
 
 @media (max-width: 576px) {
-  h1 {
+  h1,
+  h2 {
     display: block;
     text-align: center;
     font-size: 50px;
